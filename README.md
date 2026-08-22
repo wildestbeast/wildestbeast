@@ -9,7 +9,8 @@
 📚 Always learning and building new projects
 
 ⚡ Fun fact:
-👉 I like tea
+
+👉 I like sippin' tea in a moody evening
 
 👉 My favourite anime is One Piece
 
