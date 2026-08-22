@@ -1,9 +1,11 @@
 ## Hi I am Sri Varsan! 👋
 
-🎓 Final year ECE student
-    Currently learning C/C++, React, Python.
+🎓 Final year ECE student Currently learning C/C++, React, Python.
+
 🪫 I enjoy building Circuits, learning new technologies, and improving my problem-solving skills.
+
 🚀 Currently exploring -> AI/ML, Web Development, 
+
 📚 Always learning and building new projects
 
 ⚡ Fun fact:
