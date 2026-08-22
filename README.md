@@ -4,7 +4,7 @@
 
 🪫 I enjoy building Circuits, learning new technologies, and improving my problem-solving skills.
 
-🚀 Currently exploring -> AI/ML, Web Development, 
+🚀 Currently exploring -> AI/ML, Web Development 
 
 📚 Always learning and building new projects
 
