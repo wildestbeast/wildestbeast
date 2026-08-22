@@ -10,6 +10,7 @@
 
 ⚡ Fun fact:
 👉 I like tea
+
 👉 My favourite anime is One Piece
 
 <!--
