@@ -2,7 +2,7 @@
 
 - Final year ECE student Currently learning C/C++, React, Python.
 - I enjoy building Circuits, learning new technologies, and improving my problem-solving skills.
-- Currently exploring -> AI/ML, Web Development 
+- Currently exploring -> Full stack Development, AI/ML
 - Always learning and building new projects
 
 ⚡ Fun fact:
