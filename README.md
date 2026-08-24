@@ -1,4 +1,4 @@
-## Hi I am Sri Varsan! 👋
+# Hi I am Sri Varsan! 👋
 
 - Final year ECE student Currently learning C/C++, React, Python.
 - I enjoy building Circuits, learning new technologies, and improving my problem-solving skills.
@@ -9,6 +9,14 @@
 
 - I like sippin' tea in a moody evening
 - My favourite anime is One Piece
+
+##🎓Education
+
+| Degree | Instituition | Year | Score |
+| --- | --- | --- | --- |
+| B.E — Electronics & Communication Engineering | Sri Krishna College of Technology, Coimbatore | 2023 – Present | 7.35 / 10 |
+
+
 
 <!--
 **wildestbeast/wildestbeast** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
