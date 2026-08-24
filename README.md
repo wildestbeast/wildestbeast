@@ -16,8 +16,7 @@
 | --- | --- | --- | --- |
 | B.E — Electronics & Communication Engineering | Sri Krishna College of Technology, Coimbatore | 2023 – Present | 7.35 / 10 |
 
-<i style="font-family: cursive; text-align: centre">Be curious Be hungry!    -Sri Varsan😉.</i>
-
+<p align="center"><i style="font-family: cursive; ">Be curious Be hungry!</i>    -Sri Varsan😉.</p>
 
 <!--
 **wildestbeast/wildestbeast** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
