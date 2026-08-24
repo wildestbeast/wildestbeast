@@ -16,6 +16,7 @@
 | --- | --- | --- | --- |
 | B.E — Electronics & Communication Engineering | Sri Krishna College of Technology, Coimbatore | 2023 – Present | 7.35 / 10 |
 
+<i style="font-family: cursive; text-align: centre">Be curious Be hungry!    -Sri Varsan😉.</i>
 
 
 <!--
