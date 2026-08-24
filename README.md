@@ -10,7 +10,7 @@
 - I like sippin' tea in a moody evening
 - My favourite anime is One Piece
 
-##🎓Education
+## 🎓Education
 
 | Degree | Instituition | Year | Score |
 | --- | --- | --- | --- |
